@@ -1,2 +1,2 @@
 # szg-clonerealorfake
-Sizigi's overview event page linked to payment page
+sizigi lab's landing event page for payment
